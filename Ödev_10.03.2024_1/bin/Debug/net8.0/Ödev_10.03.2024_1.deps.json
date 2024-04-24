@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ödev_10.03.2024_1/1.0.0": {
+        "runtime": {
+          "Ödev_10.03.2024_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ödev_10.03.2024_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
